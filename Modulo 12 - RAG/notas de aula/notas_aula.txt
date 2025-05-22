@@ -1,0 +1,37 @@
+Aprendizado de Máquina - Notas de Aula
+
+1. Aprendizado Supervisionado
+O aprendizado supervisionado é um tipo de aprendizado de máquina onde o algoritmo aprende a partir de exemplos rotulados. 
+Cada exemplo de treinamento consiste em um par de entrada-saída, onde a saída é o que queremos que o algoritmo aprenda a prever.
+Exemplos comuns incluem:
+- Classificação: identificar categorias (ex: spam/não spam)
+- Regressão: prever valores numéricos (ex: preço de uma casa)
+
+2. Aprendizado Não Supervisionado
+No aprendizado não supervisionado, o algoritmo recebe dados sem rótulos e deve encontrar padrões por conta própria.
+Principais técnicas:
+- Clustering: agrupar dados similares
+- Redução de dimensionalidade: simplificar dados complexos
+- Detecção de anomalias: identificar padrões incomuns
+
+3. Aprendizado por Reforço
+O aprendizado por reforço é um tipo de aprendizado onde um agente aprende a tomar decisões através de tentativa e erro.
+O agente recebe recompensas ou punições por suas ações e aprende a maximizar as recompensas ao longo do tempo.
+Aplicações incluem:
+- Jogos
+- Robótica
+- Sistemas de recomendação
+
+4. Redes Neurais
+Redes neurais são modelos inspirados no cérebro humano, compostos por camadas de neurônios interconectados.
+Tipos principais:
+- Perceptron: a forma mais simples de rede neural
+- Redes Neurais Convolucionais (CNN): excelentes para processamento de imagens
+- Redes Neurais Recorrentes (RNN): boas para dados sequenciais
+
+5. Avaliação de Modelos
+Métricas importantes:
+- Acurácia: proporção de previsões corretas
+- Precisão e Recall: importantes para problemas desbalanceados
+- F1-Score: média harmônica entre precisão e recall
+- ROC e AUC: avaliação de classificadores binários 
